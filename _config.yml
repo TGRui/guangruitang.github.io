@@ -148,8 +148,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: csdn.net
-    rss_url: https://blog.csdn.net/TGRui/article/details/114864635
 
 
 # -----------------------------------------------------------------------------
