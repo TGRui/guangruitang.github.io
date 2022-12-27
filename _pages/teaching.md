@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Instrcutor
+SIE 340: Deterministic Operations Research, Summer 2021
 
-Organize your courses by years, topics, or universities, however you like!
+## Teaching Assistant
+SIE 270: Mathematical Foundations of Systems and Industrial Engineering, Spring 2020, Spring 2021
+
+SIE 340: Deterministic Operations Research, Summer 2020, Fall 2020, Fall 2021
+
+SIE 415/515: Technical Sales and Marketing, Fall 2022
+
+SIE 440/540: Survey of Optimization Methods, Spring 2023
