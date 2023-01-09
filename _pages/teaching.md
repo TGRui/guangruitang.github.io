@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-## Instrcutor
+## Instructor
 SIE 340: Deterministic Operations Research, Summer 2021
 
 ## Teaching Assistant
