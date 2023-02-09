@@ -22,5 +22,5 @@ I am a PhD student at University of Arizona working on machine learning and opti
 My research is mainly about distributionally robust optimization, regularization in machine learning 
 and hyperparameter optimization.
 
-Before that, I obtained bachelor's degree and master's degree in Biomdeical Engineering
+Before that, I obtained bachelor's degree and master's degree in Biomedical Engineering
 at Beihang University, where I worked on medical signal processing and medical image processing.
